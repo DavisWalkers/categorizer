@@ -1,0 +1,3 @@
+/home/despicable/GeekBrains/Cpp-Basics/categorizer/build/CMakeFiles/rebuild_cache.dir
+/home/despicable/GeekBrains/Cpp-Basics/categorizer/build/CMakeFiles/edit_cache.dir
+/home/despicable/GeekBrains/Cpp-Basics/categorizer/build/CMakeFiles/categorizer.dir

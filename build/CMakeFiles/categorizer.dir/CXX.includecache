@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/categorizer.hpp
+iostream
+-
+fstream
+-
+
+/home/despicable/GeekBrains/Cpp-Basics/categorizer/src/categorizer.cpp
+categorizer.hpp
+/home/despicable/GeekBrains/Cpp-Basics/categorizer/src/categorizer.hpp
+
