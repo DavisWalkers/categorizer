@@ -1,1 +1,1 @@
-Simple programm to count amount of pixels encountered
+Simple program to count amount of pixels encountered
